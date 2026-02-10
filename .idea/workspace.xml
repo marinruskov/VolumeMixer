@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12cad075-8116-4c5c-849d-82589089b7d0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="32bDqzbb1uCo07fYKxJJrqkntuv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.FloatSpinbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Keybinds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mixer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SettingsPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tab.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marin/Desktop/OtherProjects/Python/CustomAudioMixerV2 - Copy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marin\Desktop\OtherProjects\Python\CustomAudioMixerV2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marin\Desktop\OtherProjects\Python\CustomAudioMixerV2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12cad075-8116-4c5c-849d-82589089b7d0" name="Changes" comment="" />
+      <created>1757680572440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757680572440</updated>
+      <workItem from="1757680575794" duration="4243000" />
+      <workItem from="1757764412501" duration="3575000" />
+      <workItem from="1757784292422" duration="2685000" />
+      <workItem from="1757850079302" duration="5407000" />
+      <workItem from="1757936334707" duration="3243000" />
+      <workItem from="1758020279038" duration="10449000" />
+      <workItem from="1758110630070" duration="5064000" />
+      <workItem from="1758116397712" duration="33000" />
+      <workItem from="1758121584342" duration="502000" />
+      <workItem from="1758203960321" duration="4577000" />
+      <workItem from="1758278865648" duration="4701000" />
+      <workItem from="1758283620202" duration="1192000" />
+      <workItem from="1758538876557" duration="4276000" />
+      <workItem from="1758630515222" duration="3318000" />
+      <workItem from="1758647111264" duration="45000" />
+      <workItem from="1758713729852" duration="72000" />
+      <workItem from="1758888658460" duration="3170000" />
+      <workItem from="1758892123927" duration="453000" />
+      <workItem from="1758986784374" duration="1648000" />
+      <workItem from="1759064188153" duration="1296000" />
+      <workItem from="1759144225686" duration="24000" />
+      <workItem from="1759144256597" duration="223000" />
+      <workItem from="1759404974675" duration="1365000" />
+      <workItem from="1760546343927" duration="441000" />
+      <workItem from="1763810386985" duration="36000" />
+      <workItem from="1763810451729" duration="3000" />
+      <workItem from="1763810669037" duration="2537000" />
+      <workItem from="1764769644367" duration="467000" />
+      <workItem from="1764770123505" duration="25000" />
+      <workItem from="1764770154112" duration="126000" />
+      <workItem from="1764770290650" duration="2204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$test.coverage" NAME="test Coverage Results" MODIFIED="1758021111579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$app.coverage" NAME="app Coverage Results" MODIFIED="1758283129599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$main.coverage" NAME="main Coverage Results" MODIFIED="1764771867398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$Keybinds.coverage" NAME="Keybinds Coverage Results" MODIFIED="1758112783767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$XML.coverage" NAME="XML Coverage Results" MODIFIED="1757859428685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$FloatSpinbox.coverage" NAME="FloatSpinbox Coverage Results" MODIFIED="1758206644317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2___Copy$main.coverage" NAME="main Coverage Results" MODIFIED="1758116406064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$Mixer.coverage" NAME="Mixer Coverage Results" MODIFIED="1757681152389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$SettingsPage.coverage" NAME="SettingsPage Coverage Results" MODIFIED="1758283383235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CustomAudioMixerV2$Tab.coverage" NAME="Tab Coverage Results" MODIFIED="1758114946694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
