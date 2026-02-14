@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Settings>
+  <IncrementValue>10.0</IncrementValue>
+  <Session name="Spotify.exe">
+    <Increase modifier="Shift" character="Scroll Up"/>
+    <Decrease modifier="Shift" character="Scroll Down"/>
+  </Session>
+  <StartupEnabled>false</StartupEnabled>
+</Settings>
